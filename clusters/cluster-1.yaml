@@ -9,3 +9,4 @@ spec:
   terraform_template_branch: "master"
   terraform_template_repo: "https://github.com/lukasz-bielinski/automated-infra-terraform.git"
   autoscaling_max_node_count: "1"
+  protected: "false"
